@@ -14,7 +14,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/grekhor/Packages/netutil"
+	"github.com/beeemT/Packages/netutil"
 )
 
 var (
